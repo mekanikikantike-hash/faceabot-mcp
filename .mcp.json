@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "faceabot": {
+      "type": "http",
+      "url": "https://faceabot.com/api/mcp"
+    }
+  }
+}
