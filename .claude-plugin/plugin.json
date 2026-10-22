@@ -1,0 +1,19 @@
+{
+  "name": "faceabot",
+  "version": "1.0.0",
+  "description": "Tell it your need, get the MCP tool that actually works: Faceabot searches 46,000+ MCP servers, ranks them by live-measured reliability and returns a ready config with fallbacks. Free, no key.",
+  "author": {
+    "name": "Faceabot",
+    "email": "mekanikikantike@gmail.com",
+    "url": "https://faceabot.com"
+  },
+  "homepage": "https://faceabot.com",
+  "repository": "https://github.com/mekanikikantike-hash/faceabot-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "tool-discovery",
+    "reliability",
+    "ai-agents"
+  ]
+}
